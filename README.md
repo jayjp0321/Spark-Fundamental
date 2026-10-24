@@ -1,7 +1,11 @@
 # ⚡ Spark Fundamentals
 
 ### A Self-Learning Guide to Apache Spark Architecture, Execution, and Configuration
+---------------------------------------------------------------------------------------------------------------------------------
+Author: Jay Prakash Kumar
 
+Status: Work in Progress
+---------------------------------------------------------------------------------------------------------------------------------
 Welcome to **Spark Fundamentals** — a structured, self-paced learning resource designed to build a strong understanding of Apache Spark, from its foundational concepts to its internal execution model and cluster resource management.
 
 This tutorial goes beyond learning Spark APIs. It explores how Spark translates data-processing operations into distributed execution, how its internal components interact, how tasks are scheduled across cluster resources, and how configuration influences execution.
